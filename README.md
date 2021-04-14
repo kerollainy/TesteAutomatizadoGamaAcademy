@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/cucumber-v.0.0.1-yellow.svg)
 ![](https://img.shields.io/badge/selenium-v.3.141.59-green.svg)
 
-# Teste_Automatizado_GamaAcademy
+# Teste Automatizado GamaAcademy
 <br>
 <b>Objetivo:</b> O objetivo era fazer o teste automatizado com o site da Gama Academy, testar algumas funcionalidades básicas do site.
 
 <br>
 <br>
 
-## Caso de Teste :red_circle: <br>
+## Caso de Teste I <br>
 O objetivo é acessar o site e ver o item Manifesto.<br>
 <b>Cenario I:</b> Entrar o site da Gama Academy e clicar na opcao quem somos<br>
 Dado que eu estou no site da gama academy<br>
@@ -18,7 +18,7 @@ Entao devo ver a palavra "Manifesto"<br>
 <br>
 <br>
 
-## Caso de Teste II :red_circle: <br>
+## Caso de Teste II  <br>
 Entrar no site Gama Academy e clicar nas opcoes<br>
 <b>Cenario I:</b> Entrar no site Gama Academy Products e ver o botao comprar<br>
 Dado que eu estou no site da gama academy products<br>
@@ -39,24 +39,24 @@ Entao devo ver as opcoes<br>
 <br>
 <br>
 
-## Tecnologias utilizadas :heart_eyes: <br>
- :white_check_mark: <b>Java</b><br>
+## Tecnologias utilizadas <br>
+ <b>Java</b><br>
 > Linguagem de programação para desenvolvimento da aplicação.<br>
  
- :white_check_mark: <b>Selenium</b><br>
+ <b>Selenium</b><br>
 > Framework responsável por fazer a integração do código java com a linguagem Gherkin(Cucumber) abrindo o browser fazendo o teste de comportamento.<br>
  
- :white_check_mark: <b>Cucumber</b><br>
+ <b>Cucumber</b><br>
 > Framework responsável por traduzir uma linguagem humana em código Java.<br>
 
-:white_check_mark: <b>Maven</b><br>
+<b>Maven</b><br>
 > Gerenciador de dependências para o Java.<br>
 
 <br>
 <br>
 <br>
 
-## Como utilizar :computer:<br>
+## Como utilizar <br>
 
 - Instalar o [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 - Instalar [JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
